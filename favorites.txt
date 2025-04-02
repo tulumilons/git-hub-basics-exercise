@@ -1,3 +1,6 @@
 pasta
 tomato
 onion
+UP
+Bee
+Enchantement
